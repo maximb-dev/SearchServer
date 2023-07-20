@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\concurrent_map.h" />
     <ClInclude Include="src\document.h" />
     <ClInclude Include="src\log_duration.h" />
     <ClInclude Include="src\paginator.h" />
@@ -29,6 +30,7 @@
     <ClInclude Include="src\search_server.h" />
     <ClInclude Include="src\string_processing.h" />
     <ClInclude Include="src\test_example_functions.h" />
+    <ClInclude Include="src\test_framework.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
